@@ -12,4 +12,5 @@ Which countries have the most Rockbuster customers ?
   
 Do sales figures vary between the geographic regions?  
 
+Tableau: https://public.tableau.com/app/profile/alex4584/viz/3_10RockbusterPerformanceAnalysis/Story1?publish=yes
  
